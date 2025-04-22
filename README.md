@@ -1,1 +1,1 @@
-Simple calculator -> https://laprapvk.github.io/basic_calculator/
+Calculator -> https://laprapvk.github.io/basic_calculator/
